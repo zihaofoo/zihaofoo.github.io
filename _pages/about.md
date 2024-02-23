@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is Zi Hao. Write your biography here. Tell the world about yourself. 
+I am a Ph.D. candidate in Mechanical Engineering and Computational Science at the Massachusetts Institute of Technology (MIT). My Ph.D. thesis surrounds the development of novel separation systems for critical material extraction from salt-lakes, and from spent battery and magnet leachates. At MIT, I develop first-principles computational models to understand ion transport phenomena across polyamide membranes in nanofiltration (NF) and polysulfonated ion exchange membranes in electrodialysis (ED). 
