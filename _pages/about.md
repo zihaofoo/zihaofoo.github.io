@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. Candidate in Mechanical Engineering and Computational Science at MIT.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: # >
     # <p>Massachusetts Institute of Technology</p>
     # <p>77 Massachusetts Avenue</p>
