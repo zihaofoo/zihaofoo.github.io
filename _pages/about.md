@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Mechanical Engineering and Computational Science at
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 6H6A8507.jpg
   image_circular: false # crops the image to make it circular
   more_info: # >
     # <p>Massachusetts Institute of Technology</p>
