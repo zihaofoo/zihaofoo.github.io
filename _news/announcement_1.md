@@ -6,5 +6,5 @@ inline: true
 related_posts: false
 ---
 
-Gradauted from Nanyang Technological University! 
+Graduated from Nanyang Technological University! 
 Awarded a degree of Bachelor of Engineering (Mechanical Engineering) with Highest Distinction. 
